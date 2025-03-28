@@ -89,7 +89,7 @@ Obsidian Core is built on a few core ideas:
 ## ❤️ Contributing
 
 Pull requests, mods, feedback, and ideas are all welcome.  
-Check the [issues](https://github.com/yourusername/obsidian-core/issues) page or start a new discussion.
+Check the [issues](https://github.com/sumnerhull/obsidian-core/issues) page or start a new discussion.
 
 ---
 
@@ -108,5 +108,5 @@ See [`LICENSE`](./LICENSE) for details.
 
 ---
 
-> Built with love, aluminum, and purple LEDs by Sumner McClure  
+> Built with love, aluminum, and purple LEDs by Sumner Hull and Luis Gomez  
 > _“Precision forged in obsidian.”_
