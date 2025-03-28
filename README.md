@@ -42,7 +42,7 @@
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/yourusername/obsidian-core.git
+   git clone https://github.com/SumnerHull/Project-Obsidian-Core.git
    ```
 2. Check the `/docs` and `/firmware` folders for wiring diagrams and Klipper configs
 3. Follow setup instructions in `/scripts/setup_klipper.sh` to flash your board
